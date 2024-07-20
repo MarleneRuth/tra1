@@ -5,6 +5,20 @@
     "version": "0.2.0",
     "configurations": [
         {
+            "type": "java",
+            "name": "Semana",
+            "request": "launch",
+            "mainClass": "Semana",
+            "projectName": "tra1_4e4937d0"
+        },
+        {
+            "type": "java",
+            "name": "MiNombre",
+            "request": "launch",
+            "mainClass": "MiNombre",
+            "projectName": "tra1_4e4937d0"
+        },
+        {
             "type": "jdk",
             "request": "launch",
             "name": "Launch Java App"
