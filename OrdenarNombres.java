@@ -63,7 +63,7 @@ public class OrdenarNombres {
             }
         }
         if (index == -1) {
-            return nombres;  // El nombre no se encontró, retornar la lista original
+            return nombres;  
         }
 
         String[] nuevosNombres = new String[nombres.length - 1];

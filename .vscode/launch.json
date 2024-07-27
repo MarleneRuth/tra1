@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CuentaBancaria",
+            "request": "launch",
+            "mainClass": "CuentaBancaria",
+            "projectName": "tra1_4e4937d0"
+        },
+        {
+            "type": "java",
+            "name": "Estudiante",
+            "request": "launch",
+            "mainClass": "Estudiante",
+            "projectName": "tra1_4e4937d0"
+        },
+        {
+            "type": "java",
             "name": "Semana",
             "request": "launch",
             "mainClass": "Semana",
